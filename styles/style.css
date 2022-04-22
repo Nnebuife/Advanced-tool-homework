@@ -17,7 +17,7 @@
   }
   
   h1 {
-    font-size: 96px;
+    font-size: 90px;
   }
   
   h2 {
@@ -90,3 +90,4 @@
     text-decoration: underline;
   }
   
+  @media (max-width:750px) {.show-portfolio{display: none;}}
